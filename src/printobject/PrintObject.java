@@ -36,7 +36,6 @@ public class PrintObject {
         Persona objeto = new Persona(nombre, fechaDeNacimiento);
         System.out.println(objeto);
         
-        
         /*
         * En este caso llamamos a los atributos de clase y los concatenamos
         * para generar la estructura que necesitemos.

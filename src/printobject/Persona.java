@@ -67,8 +67,6 @@ public class Persona {
         res += "| Fecha de nacimiento :" + nacimiento + br;
         res += "| Edad                :" + getAge().getYears() + " anos" + br;
         res += line + br;
-
         return res;
     }
-
 }
